@@ -1,0 +1,12 @@
+# calcWithBrackets
+
+Calculator with brackets.
+-------------------------
+
+v 0.2
+
+cd to a project folder; 
+Find the Run class;
+Compile; 
+and run: java -classpath ./bin org.kotikov.calc.Run '(2+3)*3'
+
